@@ -1,0 +1,301 @@
+customer_id,name,age,gender,location,loyalty_tier
+1,James Tran,21,Other,Rodriguezfurt,Bronze
+2,Mary Martinez,52,Female,Andrewfort,Silver
+3,Jenna Jordan,50,Female,Leechester,Gold
+4,Eugene Wood,57,Other,North Erik,Bronze
+5,Sharon Dickson,32,Male,North Mark,Bronze
+6,Michael Evans,37,Female,Anitaland,Gold
+7,James Aguilar,26,Male,Port Latoya,Bronze
+8,Michael White,41,Female,Juanton,Platinum
+9,Craig Walker,27,Other,Leeville,Gold
+10,Lauren Rodgers,49,Male,East Ryan,Platinum
+11,Helen Harris,28,Male,Joshuamouth,Silver
+12,Kristin Mcgee,30,Male,Mariamouth,Bronze
+13,Zachary Chan,41,Male,New Dianeland,Bronze
+14,Ashley Curry,35,Male,Watersmouth,Platinum
+15,Elizabeth Potts,19,Male,Baileyburgh,Gold
+16,Nina Cantrell,63,Female,Lyonsmouth,Silver
+17,Michael Wright,24,Male,South Larry,Bronze
+18,Mark Hubbard,50,Other,Crossmouth,Gold
+19,Kristin Woods,29,Male,Bradleyfurt,Silver
+20,Veronica Williams,33,Male,Aaronton,Platinum
+21,Patrick Smith,26,Male,Joseport,Silver
+22,Lauren Chang,23,Female,New Jessica,Bronze
+23,Ashley Holt,27,Female,Jonathanborough,Silver
+24,Stephanie Sims,23,Female,Kristintown,Bronze
+25,Ellen Moreno,28,Female,Russellbury,Silver
+26,Edward Cain,44,Other,North Jasonmouth,Bronze
+27,Marcus Jacobson,49,Male,Kingtown,Platinum
+28,Derek Horton Jr.,23,Male,Aprilstad,Silver
+29,Judith Peterson,52,Female,Lopezchester,Gold
+30,Joe Wilson,22,Other,Thomasbury,Platinum
+31,Jason Finley,45,Female,Raymondborough,Gold
+32,Phillip Garcia,20,Female,Garzafort,Gold
+33,Holly Rodriguez,30,Other,South Aaron,Gold
+34,Matthew Downs,30,Male,Sweeneyshire,Bronze
+35,Thomas Kim,49,Other,East Melissamouth,Gold
+36,Tiffany Lewis,57,Male,Jamesmouth,Platinum
+37,Melissa Parks,35,Male,West Robin,Silver
+38,Amber Morales,49,Female,Valerieside,Gold
+39,Sean Maldonado,38,Female,West Gary,Platinum
+40,Jason Wright,30,Male,Cynthialand,Platinum
+41,Jonathan Garrett,43,Other,New Christina,Platinum
+42,Jacob Gray DDS,45,Female,East Abigailbury,Platinum
+43,Sarah Hernandez,44,Female,Port Susanberg,Gold
+44,John Thomas,29,Female,Jenniferside,Silver
+45,Brian Williams,64,Other,West Miaburgh,Platinum
+46,Tracy Peterson,23,Other,East Leestad,Gold
+47,Maxwell Singh,39,Male,Sabrinastad,Silver
+48,William Thompson,53,Female,South Davidhaven,Platinum
+49,Elizabeth Robles,40,Female,South Rebecca,Gold
+50,Marisa Hunt,43,Other,Larryland,Platinum
+51,Shawn Mcguire,32,Other,Frychester,Gold
+52,Rebecca Nelson,48,Male,Smithmouth,Silver
+53,Kristy Schneider,64,Male,Lake Emilyside,Silver
+54,Ryan Morris,53,Female,Port Robert,Silver
+55,Dr. Nicole Sanchez MD,22,Male,Lake Michael,Platinum
+56,Dana Navarro,37,Other,Port Jasonmouth,Silver
+57,Alexander Sanders,40,Other,Brownside,Bronze
+58,Jacob Manning,55,Other,Port Jasonhaven,Bronze
+59,William Smith,23,Female,Garciatown,Gold
+60,Robert Garcia,42,Female,Nguyenmouth,Gold
+61,Linda Cunningham,64,Male,Valdezton,Gold
+62,Matthew Ho,26,Other,Josephfort,Gold
+63,Colin Berry,55,Female,Port Rodney,Platinum
+64,Erin Hall,31,Female,Hernandezborough,Gold
+65,Donna Perkins,18,Female,North Wendy,Bronze
+66,Dr. Christina Knight,35,Female,West Lisamouth,Bronze
+67,Sara Walker,27,Female,Port Jeremy,Bronze
+68,Linda Nguyen,52,Female,Port Felicia,Bronze
+69,Justin Schneider,54,Other,Joshuashire,Gold
+70,Austin Torres,27,Female,West Sydney,Gold
+71,James Schmidt,43,Female,East Mark,Bronze
+72,Trevor Perkins,30,Female,Christopherberg,Silver
+73,Kimberly Underwood,54,Male,South Kimberlyton,Platinum
+74,Jeremy Coleman,46,Female,Joshuachester,Gold
+75,Larry Reed,37,Female,Smithton,Bronze
+76,Emily Thomas,18,Male,Carriebury,Bronze
+77,Lisa Haney,23,Male,Lake John,Bronze
+78,Raymond Thomas,21,Other,North Danielhaven,Bronze
+79,Katie Johnson,50,Female,South Amy,Platinum
+80,Joshua Simpson,30,Other,South Rachel,Bronze
+81,Carol Moore,63,Male,Thomasstad,Bronze
+82,Tyler Davidson,53,Other,Rosaleshaven,Silver
+83,Molly Castillo,30,Female,Alyssafurt,Platinum
+84,Kristy Morgan,34,Other,Lake Ryanview,Silver
+85,Kevin Gordon,21,Other,Lake Christopherside,Silver
+86,Brian Byrd,30,Other,Elizabethside,Gold
+87,John Murray,42,Female,Deanberg,Silver
+88,Jill Montgomery,39,Female,East Lisaport,Platinum
+89,Shelley Pierce,29,Other,New Christopher,Bronze
+90,Lauren Reese,27,Female,East Jeffrey,Silver
+91,Roberto Hanson,55,Other,Mitchellstad,Silver
+92,Cheryl Wallace,28,Other,New Michaelton,Silver
+93,Jessica Wheeler,60,Male,Brooksstad,Silver
+94,Natalie Harris,44,Other,Port Dawn,Bronze
+95,Dylan Nelson,25,Male,Port Rickstad,Platinum
+96,Jason Mendez,47,Other,West Jessica,Gold
+97,Thomas Thomas,60,Female,Tinaborough,Gold
+98,Alexis Jones,52,Other,West Sara,Platinum
+99,Carlos Smith,29,Other,South Lukeburgh,Gold
+100,Brandon Snyder,65,Female,Port Zachary,Gold
+101,Luke Butler,55,Female,Lake Richardfurt,Silver
+102,Robin Spencer,32,Female,North Robertmouth,Platinum
+103,Preston Cox,52,Other,Lake Karaview,Silver
+104,Olivia Rowland,24,Male,Rachaelview,Platinum
+105,Mary Cruz,49,Female,Port Judyfort,Bronze
+106,Holly Gomez,53,Male,Estradashire,Silver
+107,Justin Holmes,63,Male,West Thomastown,Silver
+108,Joseph Mcneil,45,Other,South Judy,Platinum
+109,Jackie Nguyen,61,Male,Lake Jasmine,Bronze
+110,Lori Marquez,22,Male,West Edward,Silver
+111,Kayla Hill,41,Other,Jacobmouth,Bronze
+112,Joseph Blair,65,Other,Davisville,Platinum
+113,James Moreno,58,Other,Stevenville,Silver
+114,Denise Anderson,34,Male,Burtonside,Gold
+115,Shannon Clements,31,Male,Williamville,Platinum
+116,Anthony Collins,21,Male,Austinport,Gold
+117,Michele Harris,21,Female,West Jeffrey,Gold
+118,Savannah Roman,32,Male,Roberthaven,Platinum
+119,Jacqueline Adams,61,Male,Melissatown,Bronze
+120,Joanna Campbell,46,Male,Port Nicholashaven,Bronze
+121,Devin Hayes,51,Other,Port Marcstad,Platinum
+122,Mark Obrien DDS,21,Male,New Charleschester,Gold
+123,Tara Frank,29,Female,Brentberg,Platinum
+124,Mary Wilson,51,Male,New Gregory,Silver
+125,Morgan Morgan,59,Female,South Anneburgh,Gold
+126,Jessica Hartman,44,Female,Joshuaside,Gold
+127,Eduardo Dixon,32,Female,Lake Danielle,Silver
+128,Kara Chapman,37,Male,East Allenshire,Bronze
+129,Veronica Love,50,Male,Danielville,Platinum
+130,Daniel Martin,60,Male,Port Edward,Gold
+131,Tina Valdez,39,Male,South Morganport,Platinum
+132,Barbara French,35,Female,Mcculloughmouth,Bronze
+133,Kelli Ellis,37,Male,North Johnton,Platinum
+134,Susan Greer,33,Other,Joseborough,Bronze
+135,Alexander Newton,64,Female,Christinebury,Gold
+136,Phillip Moore,64,Other,East Natalie,Platinum
+137,Mr. Brett Hayes,39,Other,Pacestad,Bronze
+138,Austin Morris,50,Female,Smithburgh,Silver
+139,Ricky Bullock,61,Female,New Laurenhaven,Silver
+140,Alex Payne,56,Other,West Annamouth,Gold
+141,Isabella Jackson,21,Other,Ellisfort,Silver
+142,Joseph Wiggins,53,Male,Cummingsmouth,Gold
+143,Jennifer Ramos,34,Male,South Charlesmouth,Platinum
+144,Matthew Mejia,23,Male,Changland,Gold
+145,Daniel Shields,44,Other,Kellyview,Platinum
+146,Lori Day,21,Other,Port Eric,Silver
+147,Erin Nguyen,55,Male,Erikaburgh,Platinum
+148,Daniel Ochoa,25,Other,Myerston,Platinum
+149,Maria Cummings,59,Female,West Howardside,Bronze
+150,Mary Perez,19,Female,Port Jeffrey,Bronze
+151,Natalie Garner,27,Other,Rachelview,Bronze
+152,Margaret Ware,35,Female,Lake Robertfurt,Platinum
+153,Ryan Butler,20,Female,Taylorport,Bronze
+154,Kelly Sutton,45,Female,Lopezborough,Silver
+155,Gina Cooper,44,Female,South Jamie,Bronze
+156,William Mcdonald,60,Male,Port Sheilahaven,Bronze
+157,Michael Lowe,49,Female,New Richard,Platinum
+158,Brenda Lopez,52,Male,North Stephenland,Bronze
+159,Heather Johnson,35,Female,North Maryberg,Bronze
+160,Michael Walker,53,Other,North Tara,Silver
+161,Brandon Rose,35,Other,Sarahstad,Platinum
+162,Jonathan Payne,27,Female,Tonyhaven,Silver
+163,Theresa Padilla,40,Other,South Wayne,Bronze
+164,Timothy Fields,43,Other,West David,Silver
+165,Jose Cain,65,Other,Lake Anthonymouth,Platinum
+166,Rebecca Cooper,18,Female,West Cody,Silver
+167,Chelsea Waters,47,Other,New Rodney,Platinum
+168,Jessica Lee,20,Female,South Donnabury,Bronze
+169,Joseph Nguyen,23,Other,North Kenneth,Gold
+170,Kimberly Moreno,55,Female,Lake Justinmouth,Platinum
+171,Nicole Gonzalez,25,Male,Port Daniel,Platinum
+172,Pamela Kramer,50,Male,New Katieland,Gold
+173,Rachel Rios,24,Male,East Bradleyland,Platinum
+174,Matthew Shaw,48,Female,Jacksonville,Platinum
+175,Angela Duke,59,Male,Port Roseland,Gold
+176,Jeremy Martinez,56,Other,Schwartzshire,Gold
+177,Sergio Stewart,25,Other,New Davidburgh,Bronze
+178,William Burgess,27,Male,Hillborough,Bronze
+179,Paula Nelson,56,Female,Jenniferburgh,Silver
+180,Brandi Davis,43,Other,North Anna,Gold
+181,Jeffrey Gonzalez,37,Male,Manuelstad,Bronze
+182,Brett Grant,24,Other,West Kimberly,Platinum
+183,Kayla Klein,43,Other,New Marytown,Gold
+184,Betty Johnson,32,Other,East Andreafurt,Platinum
+185,Jonathan Holt,41,Male,Dorseyport,Platinum
+186,Kimberly Mcdonald,65,Male,West Ryanfort,Platinum
+187,Lauren Johnson,18,Other,South Bianca,Bronze
+188,Fernando Murillo,30,Female,Port Sarahville,Gold
+189,Melissa White,62,Other,New Ryanland,Silver
+190,Stephanie Gibson,65,Other,Jamesshire,Gold
+191,Emily Price,39,Female,West Stacyland,Platinum
+192,Debbie Bradley,56,Male,North Rick,Silver
+193,Robert Moore,27,Female,Susanport,Platinum
+194,Brian Hardy,29,Other,Bradleyview,Bronze
+195,Susan Gardner,53,Other,East Christopher,Platinum
+196,Andrea Martinez,35,Other,Willieport,Platinum
+197,Paul Martinez,30,Male,Nicolefurt,Bronze
+198,Bradley Barrett,26,Other,Port Leeburgh,Silver
+199,David Moore,57,Male,Rasmussenborough,Bronze
+200,Matthew Harris,54,Female,Sierrastad,Silver
+201,Brent Miller,46,Male,Davidfort,Bronze
+202,William Pennington,46,Male,South Lisashire,Bronze
+203,Jean Powell,50,Male,Yatesside,Platinum
+204,Mitchell Castaneda,34,Female,Williamsstad,Platinum
+205,Diane Mann,26,Other,Fieldschester,Silver
+206,Timothy Wade,64,Other,Jimview,Bronze
+207,Jack Wells,49,Male,Brianburgh,Bronze
+208,Alicia Summers,49,Other,Ericaview,Platinum
+209,Danny Young,33,Other,Lake Jenniferberg,Gold
+210,Matthew Sharp,20,Other,Port Josephland,Gold
+211,Emily White,25,Female,Williamtown,Silver
+212,Jack Berger,38,Male,Colemouth,Silver
+213,Patricia Tanner,65,Female,Guerramouth,Bronze
+214,Pamela Williams,45,Male,New Aaron,Silver
+215,Daniel Ramirez,27,Male,Lake Shannon,Platinum
+216,Troy Mckay,19,Female,Joshuatown,Platinum
+217,Ronald Henry,38,Female,North Dustinmouth,Gold
+218,Gregory Short,45,Other,Lake Jonathan,Gold
+219,Bonnie Williams,27,Other,Brooksstad,Silver
+220,Aaron Dickerson,28,Female,Lake Jacob,Gold
+221,Rebecca Ward,56,Other,North Ashleyburgh,Bronze
+222,Kathleen Thomas,27,Female,Mcintyreside,Bronze
+223,Lisa Larson,32,Male,Port Michaelshire,Gold
+224,Natalie Medina,41,Female,Millerport,Bronze
+225,Tanya Trujillo,47,Other,Allenview,Gold
+226,Timothy Fisher,63,Male,Port Elijah,Bronze
+227,Cody Washington,33,Other,East Jessica,Platinum
+228,Steven Grant,34,Male,Lake Stefanie,Platinum
+229,Blake Payne,38,Other,Copelandland,Bronze
+230,Erica Mitchell,36,Female,West Mallory,Silver
+231,Elizabeth Johnson,41,Female,Wesleybury,Silver
+232,Amanda Pollard,41,Female,Brettberg,Silver
+233,Adam Wang,65,Male,Robertsshire,Platinum
+234,Joanna Daniels,20,Other,Meaganborough,Silver
+235,Carolyn Sims,58,Female,Gonzalezbury,Platinum
+236,Richard Roberts,60,Other,Johnstad,Gold
+237,Courtney Gregory,25,Male,Harrisonmouth,Bronze
+238,Leslie Juarez,54,Female,East Cynthiamouth,Platinum
+239,Larry Johnson,39,Female,Mooremouth,Gold
+240,Alex Taylor,47,Male,Seanburgh,Silver
+241,James Hardy,32,Other,Port Gregoryville,Gold
+242,Ricardo Vasquez,37,Female,West Annafort,Gold
+243,Alfred Johnson,59,Other,North Heather,Bronze
+244,Cassandra Zamora,35,Female,Ericbury,Gold
+245,Michael Collins,36,Other,Scottside,Silver
+246,Joseph Blanchard,31,Other,Jeremiahchester,Silver
+247,Martin Flores,51,Male,South Jenniferton,Silver
+248,Steven Howard,23,Female,Nancyshire,Platinum
+249,Patricia Liu,38,Male,Port Anneland,Silver
+250,Daniel Shepherd,46,Male,Lake Madisonburgh,Silver
+251,Tom Solis,36,Male,Lake Carolineborough,Platinum
+252,Ann Smith,42,Female,South Amy,Gold
+253,Jeffrey Robinson,33,Male,New Mark,Platinum
+254,Robert Stuart,44,Female,New Joseph,Gold
+255,Mr. Michael Fitzgerald,23,Male,Morrisland,Gold
+256,Carla Sellers,35,Male,East Kellymouth,Gold
+257,Anthony Ortiz,41,Female,Blairmouth,Silver
+258,Sandra Harvey,56,Other,New Jennifer,Bronze
+259,Lori Davis,41,Male,Melvinmouth,Bronze
+260,Paul Logan,28,Male,Markmouth,Bronze
+261,Kimberly Small,35,Other,Sethtown,Gold
+262,Walter Smith,29,Other,Ramseyfort,Silver
+263,David Williams,55,Male,Brianfurt,Platinum
+264,Victoria Lopez,35,Other,South Michellehaven,Bronze
+265,Kyle Pena,60,Female,Foxburgh,Bronze
+266,Roger Warner,60,Female,Douglaston,Gold
+267,Mr. Brian Meyer DDS,49,Other,Jonathanside,Bronze
+268,Donald Rich,57,Male,West Clayton,Bronze
+269,Steven Andrews,30,Female,Wrightmouth,Silver
+270,Sue Ortiz,54,Male,Langberg,Platinum
+271,John Hill,32,Other,Lake Karenland,Gold
+272,Tanner Anderson,54,Other,New Danielshire,Platinum
+273,Kathryn Myers,22,Female,Phillipsbury,Silver
+274,Ashley Owens,58,Male,Port Michael,Platinum
+275,Vickie Baker,65,Female,Espinozashire,Silver
+276,Zachary Hester,64,Other,West Tina,Silver
+277,Andrew Fields,50,Male,Jonburgh,Platinum
+278,William Snow,32,Other,Stephaniemouth,Gold
+279,Stephen Lee,38,Other,South Jasonbury,Gold
+280,Laura Hayes,41,Male,Rogerside,Platinum
+281,Lindsey Davis,44,Male,East Wyatt,Platinum
+282,Adam Marshall,25,Male,Philipton,Gold
+283,David Brown,56,Female,North Richardland,Gold
+284,Derrick Jensen,59,Male,North Rebecca,Gold
+285,Karen Boyd,49,Male,East Holly,Silver
+286,Carrie Holder,22,Other,Terristad,Bronze
+287,Sheila Mcbride,40,Other,North Taraton,Gold
+288,Elizabeth Mata,59,Other,Lake Jared,Platinum
+289,Hayley Stevens,50,Other,Lake Amychester,Platinum
+290,Ronald George,28,Female,South Derrick,Silver
+291,Caitlin Rivera,54,Other,West Tara,Bronze
+292,Karina Mccarthy,33,Male,Hopkinsfurt,Gold
+293,Martha Hill,64,Other,New Lisaport,Platinum
+294,Eric Ellison,65,Other,North Angela,Bronze
+295,Nicholas Norris,55,Other,Davidborough,Bronze
+296,Gregory Wilson,42,Other,Lake Marcusfort,Platinum
+297,Kimberly Elliott,62,Male,Annville,Gold
+298,Erica Rose,21,Male,Lake Brian,Platinum
+299,Joshua Anderson,18,Female,Johnsonport,Gold
+300,Courtney Norton,42,Male,Lisaland,Gold

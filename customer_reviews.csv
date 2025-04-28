@@ -1,0 +1,1001 @@
+review_id,customer_id,product_id,rating,review_text,review_date
+1,87,P004,2.0,Battery life could be better.,2024-07-28
+2,284,P006,3.0,Poor design and overpriced.,2025-01-01
+3,278,P007,4.1,"Decent value for money, could be better.",2024-08-19
+4,280,P049,4.2,Works perfectly and looks great.,2025-01-16
+5,285,P044,1.8,Product does not match the description.,2024-12-02
+6,82,P044,3.9,"Excellent product, loved the quality.",2024-09-06
+7,130,P007,3.3,"Decent value for money, could be better.",2024-10-21
+8,126,P030,4.3,Works perfectly and looks great.,2024-05-27
+9,251,P035,4.0,"Exceeded expectations, highly recommend!",2024-09-29
+10,68,P019,1.7,Battery life could be better.,2024-06-26
+11,44,P003,3.2,Works perfectly and looks great.,2025-03-27
+12,199,P015,4.8,"Exceeded expectations, highly recommend!",2024-09-19
+13,94,P030,1.3,"Decent value for money, could be better.",2024-09-02
+14,15,P003,1.1,Very satisfied with the purchase.,2024-07-21
+15,34,P002,1.8,Poor design and overpriced.,2024-08-14
+16,102,P037,4.1,Poor design and overpriced.,2025-01-07
+17,279,P048,3.4,Works perfectly and looks great.,2024-07-05
+18,229,P003,3.7,"Excellent product, loved the quality.",2025-02-20
+19,139,P003,3.1,Poor design and overpriced.,2024-09-26
+20,154,P016,2.6,Very satisfied with the purchase.,2025-03-01
+21,78,P007,2.5,Poor design and overpriced.,2024-09-10
+22,245,P026,1.5,"Terrible service, not satisfied.",2024-09-06
+23,118,P004,1.7,Works perfectly and looks great.,2024-12-24
+24,165,P036,1.6,"Terrible service, not satisfied.",2024-06-19
+25,158,P043,1.4,Very satisfied with the purchase.,2024-06-01
+26,9,P023,4.4,Poor design and overpriced.,2024-06-25
+27,262,P027,4.3,"Terrible service, not satisfied.",2024-08-22
+28,138,P046,4.1,Fast delivery and good packaging.,2024-05-11
+29,4,P008,4.1,"Terrible service, not satisfied.",2024-10-05
+30,57,P009,4.2,"Excellent product, loved the quality.",2025-01-24
+31,90,P007,4.9,Very satisfied with the purchase.,2024-05-07
+32,149,P043,3.5,"Terrible service, not satisfied.",2024-08-30
+33,49,P049,1.7,"Decent value for money, could be better.",2024-10-15
+34,169,P041,3.3,Works perfectly and looks great.,2024-11-02
+35,190,P044,3.4,Works perfectly and looks great.,2025-02-16
+36,160,P016,3.5,"Terrible service, not satisfied.",2024-09-18
+37,137,P019,5.0,"Decent value for money, could be better.",2025-01-30
+38,299,P004,3.7,"Excellent product, loved the quality.",2025-01-13
+39,19,P043,3.5,"Terrible service, not satisfied.",2024-11-11
+40,200,P009,2.6,"Terrible service, not satisfied.",2024-11-05
+41,112,P047,3.7,Very satisfied with the purchase.,2024-09-25
+42,212,P047,4.2,"Exceeded expectations, highly recommend!",2024-05-24
+43,286,P030,4.4,Very satisfied with the purchase.,2024-06-10
+44,245,P031,3.2,Poor design and overpriced.,2025-01-01
+45,100,P001,1.7,Fast delivery and good packaging.,2025-04-17
+46,52,P010,2.8,Fast delivery and good packaging.,2024-11-14
+47,274,P046,2.0,Product does not match the description.,2025-02-24
+48,293,P021,1.8,"Excellent product, loved the quality.",2024-09-21
+49,118,P014,3.2,"Terrible service, not satisfied.",2025-02-19
+50,5,P022,1.8,"Excellent product, loved the quality.",2024-05-12
+51,84,P017,2.6,"Decent value for money, could be better.",2024-10-25
+52,36,P023,3.0,Poor design and overpriced.,2024-11-27
+53,250,P027,3.2,"Excellent product, loved the quality.",2024-05-09
+54,271,P047,4.5,Battery life could be better.,2024-07-13
+55,76,P018,2.2,Works perfectly and looks great.,2025-04-04
+56,188,P007,3.3,"Excellent product, loved the quality.",2025-01-17
+57,249,P042,2.6,Product does not match the description.,2025-01-07
+58,295,P035,1.3,"Decent value for money, could be better.",2024-11-08
+59,130,P029,2.6,Poor design and overpriced.,2024-05-25
+60,269,P002,4.6,"Exceeded expectations, highly recommend!",2025-03-19
+61,258,P036,5.0,"Excellent product, loved the quality.",2024-06-29
+62,126,P029,3.1,"Terrible service, not satisfied.",2024-07-02
+63,84,P043,4.9,Product does not match the description.,2025-04-16
+64,38,P008,4.4,Battery life could be better.,2024-05-18
+65,190,P010,4.8,"Excellent product, loved the quality.",2024-09-14
+66,95,P034,3.8,"Excellent product, loved the quality.",2025-03-26
+67,286,P024,2.6,Poor design and overpriced.,2024-09-07
+68,35,P019,4.2,"Excellent product, loved the quality.",2024-05-29
+69,237,P009,3.8,Works perfectly and looks great.,2024-07-26
+70,56,P007,3.9,Fast delivery and good packaging.,2024-10-17
+71,110,P010,4.5,Fast delivery and good packaging.,2024-05-10
+72,58,P048,3.1,Fast delivery and good packaging.,2024-12-12
+73,81,P046,1.3,Product does not match the description.,2024-12-25
+74,255,P004,1.7,Battery life could be better.,2024-10-24
+75,210,P007,4.5,"Terrible service, not satisfied.",2024-04-29
+76,261,P025,3.2,"Excellent product, loved the quality.",2024-12-16
+77,96,P014,3.7,Poor design and overpriced.,2025-02-13
+78,205,P012,3.2,Battery life could be better.,2024-06-10
+79,270,P034,4.8,Fast delivery and good packaging.,2024-12-05
+80,94,P006,3.0,Fast delivery and good packaging.,2024-11-30
+81,280,P030,2.4,Product does not match the description.,2024-07-28
+82,84,P005,3.4,Battery life could be better.,2024-12-01
+83,66,P005,1.1,Battery life could be better.,2024-11-02
+84,73,P040,2.7,Very satisfied with the purchase.,2024-05-02
+85,71,P007,3.3,"Decent value for money, could be better.",2025-04-18
+86,90,P026,3.2,"Terrible service, not satisfied.",2025-02-27
+87,117,P023,4.4,"Terrible service, not satisfied.",2024-07-08
+88,104,P047,1.6,"Terrible service, not satisfied.",2024-08-13
+89,64,P047,2.7,"Decent value for money, could be better.",2025-01-26
+90,39,P032,2.7,Fast delivery and good packaging.,2024-09-14
+91,238,P022,1.1,Fast delivery and good packaging.,2024-12-21
+92,50,P047,1.4,Poor design and overpriced.,2025-03-25
+93,148,P019,3.4,"Exceeded expectations, highly recommend!",2024-11-07
+94,148,P007,1.9,Fast delivery and good packaging.,2025-04-18
+95,203,P010,3.6,Poor design and overpriced.,2024-06-17
+96,229,P048,1.0,Battery life could be better.,2024-10-27
+97,293,P025,1.5,Poor design and overpriced.,2024-04-20
+98,88,P005,3.4,Fast delivery and good packaging.,2024-08-25
+99,100,P008,3.8,Fast delivery and good packaging.,2024-11-29
+100,292,P045,3.4,Product does not match the description.,2024-06-30
+101,165,P027,1.1,Very satisfied with the purchase.,2024-10-24
+102,227,P024,4.8,"Excellent product, loved the quality.",2024-09-14
+103,109,P047,3.2,"Decent value for money, could be better.",2024-04-22
+104,61,P018,3.5,"Exceeded expectations, highly recommend!",2024-10-08
+105,125,P045,3.9,"Terrible service, not satisfied.",2025-01-25
+106,155,P039,1.4,Poor design and overpriced.,2024-09-27
+107,142,P011,3.5,Fast delivery and good packaging.,2024-05-28
+108,64,P022,5.0,"Exceeded expectations, highly recommend!",2025-01-31
+109,215,P002,3.6,"Decent value for money, could be better.",2025-02-08
+110,289,P008,2.6,Poor design and overpriced.,2025-01-15
+111,200,P028,2.3,"Terrible service, not satisfied.",2024-12-02
+112,154,P038,1.7,Product does not match the description.,2024-10-27
+113,205,P013,1.6,Product does not match the description.,2024-05-23
+114,294,P050,5.0,"Exceeded expectations, highly recommend!",2025-02-26
+115,192,P034,1.6,"Decent value for money, could be better.",2024-05-07
+116,87,P036,1.7,Poor design and overpriced.,2024-07-04
+117,82,P044,1.3,"Decent value for money, could be better.",2025-03-20
+118,79,P002,3.9,Product does not match the description.,2024-11-06
+119,235,P003,1.1,Works perfectly and looks great.,2025-03-04
+120,253,P046,2.7,"Terrible service, not satisfied.",2024-09-29
+121,13,P005,3.8,Works perfectly and looks great.,2025-04-18
+122,64,P013,1.9,"Terrible service, not satisfied.",2024-05-07
+123,122,P045,2.5,Poor design and overpriced.,2024-10-27
+124,82,P024,1.3,Poor design and overpriced.,2024-05-26
+125,72,P039,3.4,"Decent value for money, could be better.",2024-11-19
+126,85,P003,3.2,Works perfectly and looks great.,2025-03-02
+127,167,P022,2.1,Fast delivery and good packaging.,2024-09-14
+128,2,P017,3.2,"Terrible service, not satisfied.",2024-12-11
+129,289,P004,3.4,Fast delivery and good packaging.,2025-04-15
+130,141,P037,4.2,"Exceeded expectations, highly recommend!",2025-03-26
+131,144,P050,4.3,"Excellent product, loved the quality.",2024-12-29
+132,188,P010,2.9,Works perfectly and looks great.,2024-12-14
+133,135,P035,2.4,"Excellent product, loved the quality.",2024-12-20
+134,74,P041,3.3,"Excellent product, loved the quality.",2024-06-18
+135,25,P006,4.8,"Exceeded expectations, highly recommend!",2025-01-11
+136,57,P006,2.7,Battery life could be better.,2024-11-08
+137,98,P020,1.1,Poor design and overpriced.,2024-11-21
+138,143,P017,3.9,Battery life could be better.,2024-08-03
+139,101,P043,3.7,Works perfectly and looks great.,2024-10-30
+140,183,P018,1.8,"Exceeded expectations, highly recommend!",2024-05-21
+141,97,P048,2.6,"Decent value for money, could be better.",2025-03-04
+142,231,P008,1.3,"Decent value for money, could be better.",2025-04-13
+143,176,P019,3.6,Battery life could be better.,2024-07-26
+144,83,P013,1.6,"Terrible service, not satisfied.",2025-02-06
+145,150,P045,4.0,"Terrible service, not satisfied.",2024-09-11
+146,70,P030,2.9,"Decent value for money, could be better.",2024-12-22
+147,167,P041,2.4,"Excellent product, loved the quality.",2025-01-15
+148,102,P018,1.4,Poor design and overpriced.,2024-05-12
+149,138,P004,3.2,Very satisfied with the purchase.,2024-10-13
+150,79,P035,1.9,Battery life could be better.,2024-10-11
+151,74,P037,3.4,Poor design and overpriced.,2024-06-24
+152,185,P048,3.2,Works perfectly and looks great.,2024-05-07
+153,7,P010,2.8,"Decent value for money, could be better.",2025-01-22
+154,7,P018,3.0,Battery life could be better.,2025-03-08
+155,234,P038,4.2,Product does not match the description.,2025-01-17
+156,79,P022,3.6,"Terrible service, not satisfied.",2024-07-05
+157,119,P021,2.0,Poor design and overpriced.,2024-11-03
+158,36,P022,2.0,"Terrible service, not satisfied.",2024-05-15
+159,242,P045,1.0,Fast delivery and good packaging.,2025-01-05
+160,92,P019,2.2,Works perfectly and looks great.,2024-11-15
+161,12,P035,1.3,"Decent value for money, could be better.",2025-01-01
+162,203,P002,4.7,Fast delivery and good packaging.,2025-02-04
+163,28,P048,4.8,Works perfectly and looks great.,2024-07-27
+164,155,P018,3.7,Fast delivery and good packaging.,2024-11-28
+165,203,P034,4.3,Battery life could be better.,2025-03-14
+166,139,P032,4.2,"Terrible service, not satisfied.",2024-12-02
+167,251,P042,4.5,"Terrible service, not satisfied.",2024-05-19
+168,210,P027,4.1,Fast delivery and good packaging.,2025-03-13
+169,252,P042,3.5,Fast delivery and good packaging.,2024-09-15
+170,27,P008,4.6,Product does not match the description.,2024-08-18
+171,49,P006,3.7,"Exceeded expectations, highly recommend!",2024-06-07
+172,220,P011,1.6,Fast delivery and good packaging.,2025-01-23
+173,280,P040,2.3,Battery life could be better.,2024-11-23
+174,299,P044,3.5,Poor design and overpriced.,2025-01-17
+175,279,P019,4.4,Very satisfied with the purchase.,2024-12-26
+176,191,P022,1.0,"Excellent product, loved the quality.",2024-10-09
+177,139,P047,2.2,"Exceeded expectations, highly recommend!",2024-06-10
+178,171,P045,2.8,"Terrible service, not satisfied.",2024-11-07
+179,129,P015,4.6,Product does not match the description.,2024-12-04
+180,296,P010,1.8,Product does not match the description.,2024-07-31
+181,154,P007,1.4,Fast delivery and good packaging.,2024-08-17
+182,129,P023,2.9,Battery life could be better.,2024-08-02
+183,280,P011,4.1,"Excellent product, loved the quality.",2024-10-13
+184,44,P018,1.3,"Excellent product, loved the quality.",2024-06-07
+185,243,P001,1.2,"Excellent product, loved the quality.",2025-03-07
+186,21,P045,4.4,"Terrible service, not satisfied.",2024-06-15
+187,207,P043,2.6,Fast delivery and good packaging.,2024-06-25
+188,70,P029,2.7,"Decent value for money, could be better.",2025-02-02
+189,256,P041,4.5,Poor design and overpriced.,2024-11-13
+190,241,P040,2.3,Product does not match the description.,2025-01-08
+191,54,P049,4.4,Very satisfied with the purchase.,2024-10-05
+192,260,P047,3.0,Very satisfied with the purchase.,2025-03-29
+193,131,P038,1.3,Very satisfied with the purchase.,2024-04-25
+194,141,P040,2.1,"Decent value for money, could be better.",2024-06-13
+195,261,P040,3.9,Poor design and overpriced.,2024-05-17
+196,72,P044,1.0,"Decent value for money, could be better.",2024-07-08
+197,4,P009,2.8,Very satisfied with the purchase.,2025-03-25
+198,123,P006,2.0,"Terrible service, not satisfied.",2024-08-27
+199,128,P029,2.3,"Terrible service, not satisfied.",2024-06-01
+200,104,P006,2.3,Works perfectly and looks great.,2024-05-16
+201,34,P029,1.0,"Excellent product, loved the quality.",2024-12-26
+202,57,P003,4.6,Very satisfied with the purchase.,2024-09-12
+203,128,P027,4.5,Product does not match the description.,2024-05-16
+204,95,P024,4.2,Product does not match the description.,2024-12-09
+205,199,P017,1.0,Battery life could be better.,2024-12-12
+206,63,P019,3.3,"Decent value for money, could be better.",2024-12-13
+207,34,P034,2.7,"Decent value for money, could be better.",2025-02-15
+208,179,P009,2.0,"Exceeded expectations, highly recommend!",2024-08-25
+209,167,P021,3.6,Product does not match the description.,2024-11-14
+210,89,P041,2.2,"Excellent product, loved the quality.",2024-10-27
+211,157,P034,3.0,Poor design and overpriced.,2025-02-20
+212,64,P012,3.5,Works perfectly and looks great.,2024-11-23
+213,94,P001,4.7,"Terrible service, not satisfied.",2024-11-07
+214,7,P018,1.8,Product does not match the description.,2024-11-13
+215,134,P048,1.8,"Terrible service, not satisfied.",2025-04-06
+216,70,P040,2.7,Poor design and overpriced.,2024-06-27
+217,218,P011,1.1,Very satisfied with the purchase.,2025-02-18
+218,166,P007,4.3,Poor design and overpriced.,2024-08-26
+219,129,P019,3.2,"Exceeded expectations, highly recommend!",2024-09-23
+220,106,P041,2.2,Works perfectly and looks great.,2024-05-16
+221,262,P035,2.3,Poor design and overpriced.,2024-11-24
+222,177,P024,3.4,"Exceeded expectations, highly recommend!",2025-04-17
+223,182,P025,3.5,Very satisfied with the purchase.,2024-07-23
+224,268,P015,1.5,Product does not match the description.,2024-06-26
+225,62,P050,5.0,Very satisfied with the purchase.,2024-05-17
+226,57,P045,2.9,Poor design and overpriced.,2024-07-25
+227,80,P002,2.1,Very satisfied with the purchase.,2024-11-10
+228,41,P049,3.2,"Terrible service, not satisfied.",2024-09-07
+229,68,P043,4.5,Product does not match the description.,2024-12-13
+230,138,P046,4.8,Very satisfied with the purchase.,2025-01-22
+231,21,P026,4.5,"Decent value for money, could be better.",2025-01-11
+232,4,P037,4.9,"Excellent product, loved the quality.",2024-08-05
+233,18,P002,4.5,"Terrible service, not satisfied.",2024-11-26
+234,80,P012,2.3,Battery life could be better.,2024-09-14
+235,89,P036,3.9,"Excellent product, loved the quality.",2024-07-16
+236,217,P016,1.7,Works perfectly and looks great.,2025-03-28
+237,249,P008,3.4,Product does not match the description.,2024-11-21
+238,158,P002,2.0,Battery life could be better.,2024-12-01
+239,79,P038,1.2,"Exceeded expectations, highly recommend!",2024-08-28
+240,247,P002,3.3,Works perfectly and looks great.,2025-02-05
+241,105,P040,2.7,Product does not match the description.,2024-10-15
+242,273,P024,4.3,Very satisfied with the purchase.,2024-08-10
+243,146,P039,1.3,"Terrible service, not satisfied.",2025-04-03
+244,21,P014,4.3,"Terrible service, not satisfied.",2024-06-17
+245,283,P011,4.4,Works perfectly and looks great.,2024-10-15
+246,163,P030,2.3,Poor design and overpriced.,2024-10-30
+247,215,P044,1.9,"Exceeded expectations, highly recommend!",2024-08-21
+248,94,P045,2.7,"Excellent product, loved the quality.",2024-10-14
+249,51,P016,4.4,Poor design and overpriced.,2024-11-14
+250,39,P027,3.0,"Terrible service, not satisfied.",2024-06-19
+251,237,P027,4.4,Works perfectly and looks great.,2024-12-12
+252,53,P016,1.8,Works perfectly and looks great.,2025-01-17
+253,60,P014,4.7,Poor design and overpriced.,2025-03-03
+254,267,P027,2.5,"Exceeded expectations, highly recommend!",2025-04-15
+255,36,P036,2.5,Poor design and overpriced.,2024-06-20
+256,200,P018,3.0,"Exceeded expectations, highly recommend!",2024-08-25
+257,203,P033,2.0,"Terrible service, not satisfied.",2024-05-17
+258,88,P047,2.5,"Excellent product, loved the quality.",2024-07-13
+259,109,P007,4.0,Fast delivery and good packaging.,2024-11-08
+260,250,P021,3.6,Fast delivery and good packaging.,2025-01-25
+261,21,P024,3.7,Product does not match the description.,2024-05-22
+262,91,P045,4.0,"Decent value for money, could be better.",2025-03-24
+263,252,P016,3.6,Battery life could be better.,2024-12-02
+264,208,P033,2.0,Very satisfied with the purchase.,2024-09-10
+265,259,P026,3.8,"Exceeded expectations, highly recommend!",2024-05-29
+266,211,P021,3.6,Product does not match the description.,2024-09-24
+267,162,P049,4.1,"Decent value for money, could be better.",2025-01-12
+268,262,P025,2.6,Works perfectly and looks great.,2025-01-28
+269,26,P007,1.1,Battery life could be better.,2025-01-17
+270,249,P034,3.9,Battery life could be better.,2024-11-07
+271,186,P045,1.5,Poor design and overpriced.,2024-09-11
+272,252,P024,3.2,"Exceeded expectations, highly recommend!",2024-04-29
+273,152,P008,3.1,"Decent value for money, could be better.",2024-07-17
+274,118,P030,2.4,Poor design and overpriced.,2024-08-24
+275,188,P010,3.5,"Exceeded expectations, highly recommend!",2025-03-17
+276,286,P028,2.6,Battery life could be better.,2025-01-01
+277,29,P049,4.8,Battery life could be better.,2024-07-07
+278,152,P043,4.9,Battery life could be better.,2024-10-19
+279,274,P021,2.7,Product does not match the description.,2025-04-10
+280,161,P038,2.7,Fast delivery and good packaging.,2025-01-16
+281,47,P031,1.3,"Exceeded expectations, highly recommend!",2024-09-20
+282,23,P009,4.1,Poor design and overpriced.,2024-06-17
+283,84,P009,3.9,Very satisfied with the purchase.,2024-12-05
+284,131,P041,4.7,"Terrible service, not satisfied.",2024-07-08
+285,8,P011,3.7,"Decent value for money, could be better.",2024-10-24
+286,215,P050,4.7,"Excellent product, loved the quality.",2024-04-22
+287,128,P014,4.9,"Terrible service, not satisfied.",2024-11-19
+288,236,P003,4.3,Very satisfied with the purchase.,2024-07-09
+289,230,P049,4.1,Battery life could be better.,2024-12-26
+290,53,P049,2.9,Fast delivery and good packaging.,2024-07-23
+291,154,P028,2.3,"Terrible service, not satisfied.",2024-10-17
+292,42,P032,3.2,Fast delivery and good packaging.,2024-05-13
+293,178,P015,4.4,Product does not match the description.,2024-05-31
+294,167,P022,1.6,Battery life could be better.,2025-04-11
+295,281,P031,2.1,Fast delivery and good packaging.,2024-06-16
+296,295,P045,4.5,Works perfectly and looks great.,2024-06-16
+297,118,P008,1.3,Battery life could be better.,2024-11-18
+298,7,P006,2.5,"Exceeded expectations, highly recommend!",2024-06-12
+299,203,P013,3.1,Product does not match the description.,2024-06-11
+300,273,P033,1.8,Very satisfied with the purchase.,2024-05-15
+301,71,P028,3.5,"Exceeded expectations, highly recommend!",2024-07-19
+302,157,P015,4.5,"Decent value for money, could be better.",2024-09-05
+303,143,P049,4.8,Product does not match the description.,2024-10-04
+304,140,P032,3.1,Works perfectly and looks great.,2025-01-09
+305,251,P046,1.2,Very satisfied with the purchase.,2025-03-27
+306,57,P047,2.5,Product does not match the description.,2025-03-07
+307,93,P014,1.5,"Exceeded expectations, highly recommend!",2024-05-14
+308,175,P026,4.2,"Terrible service, not satisfied.",2024-09-05
+309,237,P011,2.6,Product does not match the description.,2025-01-19
+310,150,P019,2.9,"Decent value for money, could be better.",2024-12-10
+311,94,P038,3.8,"Decent value for money, could be better.",2025-01-11
+312,201,P001,3.2,"Decent value for money, could be better.",2024-07-20
+313,113,P024,1.3,"Exceeded expectations, highly recommend!",2025-04-09
+314,15,P029,4.8,Fast delivery and good packaging.,2024-11-14
+315,25,P011,1.9,Battery life could be better.,2024-11-17
+316,48,P003,1.4,Works perfectly and looks great.,2024-07-26
+317,115,P034,4.2,"Excellent product, loved the quality.",2024-10-13
+318,47,P004,1.8,"Terrible service, not satisfied.",2025-03-31
+319,244,P006,4.0,Battery life could be better.,2024-05-05
+320,181,P038,3.0,"Terrible service, not satisfied.",2025-01-09
+321,241,P035,2.4,"Excellent product, loved the quality.",2024-09-30
+322,168,P020,3.1,Very satisfied with the purchase.,2024-10-27
+323,87,P037,2.1,Battery life could be better.,2024-11-23
+324,195,P005,2.3,Fast delivery and good packaging.,2024-07-23
+325,103,P008,3.1,"Excellent product, loved the quality.",2024-09-07
+326,142,P007,1.7,"Terrible service, not satisfied.",2024-09-26
+327,35,P037,3.4,Very satisfied with the purchase.,2024-05-11
+328,238,P003,3.9,"Exceeded expectations, highly recommend!",2024-05-25
+329,165,P006,2.1,"Excellent product, loved the quality.",2024-12-12
+330,139,P048,2.8,Very satisfied with the purchase.,2024-09-12
+331,187,P044,1.1,Product does not match the description.,2024-11-01
+332,209,P012,4.6,"Terrible service, not satisfied.",2025-04-10
+333,114,P028,3.6,Product does not match the description.,2024-11-04
+334,263,P016,1.4,Product does not match the description.,2024-11-18
+335,51,P028,2.6,"Terrible service, not satisfied.",2024-05-06
+336,113,P041,4.5,Works perfectly and looks great.,2024-06-09
+337,219,P014,4.3,Very satisfied with the purchase.,2025-03-11
+338,32,P010,3.8,"Decent value for money, could be better.",2024-04-27
+339,206,P009,4.4,Product does not match the description.,2024-09-03
+340,159,P021,3.8,Product does not match the description.,2024-10-11
+341,31,P031,3.9,Fast delivery and good packaging.,2024-11-01
+342,197,P020,1.2,Very satisfied with the purchase.,2024-08-14
+343,22,P002,4.8,"Exceeded expectations, highly recommend!",2024-09-07
+344,164,P024,3.5,Works perfectly and looks great.,2024-09-04
+345,20,P003,4.5,"Decent value for money, could be better.",2024-12-07
+346,275,P014,2.3,Poor design and overpriced.,2024-10-31
+347,207,P034,2.6,Fast delivery and good packaging.,2025-02-01
+348,211,P006,3.1,"Terrible service, not satisfied.",2024-06-22
+349,203,P043,2.2,Battery life could be better.,2025-03-19
+350,287,P041,1.7,Very satisfied with the purchase.,2025-03-01
+351,60,P015,2.7,Fast delivery and good packaging.,2025-01-27
+352,39,P021,4.9,Product does not match the description.,2024-08-14
+353,145,P015,2.7,Battery life could be better.,2024-12-05
+354,49,P012,2.7,Fast delivery and good packaging.,2024-10-27
+355,253,P045,2.2,Product does not match the description.,2025-01-07
+356,70,P038,4.8,Fast delivery and good packaging.,2024-08-20
+357,73,P035,4.1,Works perfectly and looks great.,2025-04-10
+358,276,P010,4.6,"Excellent product, loved the quality.",2025-04-18
+359,150,P029,2.3,"Decent value for money, could be better.",2024-09-19
+360,222,P038,3.9,"Excellent product, loved the quality.",2024-05-20
+361,207,P013,1.7,Battery life could be better.,2024-10-26
+362,197,P026,1.0,Very satisfied with the purchase.,2024-11-03
+363,107,P018,4.7,"Terrible service, not satisfied.",2024-11-22
+364,32,P039,3.8,Fast delivery and good packaging.,2025-02-21
+365,174,P006,4.0,"Exceeded expectations, highly recommend!",2024-12-28
+366,10,P044,4.2,"Decent value for money, could be better.",2024-12-25
+367,238,P045,2.1,"Exceeded expectations, highly recommend!",2025-02-21
+368,164,P044,5.0,"Exceeded expectations, highly recommend!",2024-05-19
+369,298,P039,2.9,"Exceeded expectations, highly recommend!",2025-03-31
+370,105,P044,3.2,Battery life could be better.,2024-08-23
+371,267,P045,3.2,Very satisfied with the purchase.,2024-11-06
+372,248,P047,1.3,Works perfectly and looks great.,2024-10-23
+373,238,P006,4.8,Poor design and overpriced.,2024-10-20
+374,93,P050,1.7,Product does not match the description.,2025-03-23
+375,73,P008,3.7,"Excellent product, loved the quality.",2024-07-22
+376,101,P013,2.7,"Decent value for money, could be better.",2024-10-05
+377,254,P011,1.4,Works perfectly and looks great.,2024-10-27
+378,233,P040,4.3,Poor design and overpriced.,2024-12-21
+379,187,P047,1.4,"Excellent product, loved the quality.",2024-05-03
+380,126,P006,4.4,Fast delivery and good packaging.,2024-12-01
+381,87,P034,3.7,Fast delivery and good packaging.,2024-11-27
+382,203,P012,2.0,Battery life could be better.,2024-06-25
+383,265,P033,2.6,Very satisfied with the purchase.,2025-01-25
+384,2,P017,3.8,"Exceeded expectations, highly recommend!",2024-08-31
+385,28,P019,4.0,Works perfectly and looks great.,2024-12-09
+386,295,P037,1.8,Works perfectly and looks great.,2025-02-24
+387,93,P002,4.4,"Terrible service, not satisfied.",2024-11-16
+388,262,P025,1.1,Poor design and overpriced.,2024-09-25
+389,97,P025,1.1,Works perfectly and looks great.,2024-08-30
+390,65,P012,2.0,Battery life could be better.,2025-03-27
+391,197,P049,4.1,Works perfectly and looks great.,2024-11-30
+392,300,P017,1.9,"Decent value for money, could be better.",2024-09-08
+393,243,P006,3.7,Poor design and overpriced.,2024-08-10
+394,155,P018,4.1,Battery life could be better.,2024-05-08
+395,11,P043,1.3,"Decent value for money, could be better.",2024-08-09
+396,74,P050,1.5,Very satisfied with the purchase.,2024-07-15
+397,249,P026,1.0,Battery life could be better.,2025-01-14
+398,62,P021,3.2,Product does not match the description.,2024-12-04
+399,171,P017,2.2,Fast delivery and good packaging.,2024-07-26
+400,83,P049,3.0,Works perfectly and looks great.,2025-01-14
+401,240,P038,2.7,Fast delivery and good packaging.,2024-09-22
+402,24,P015,3.4,Fast delivery and good packaging.,2024-10-27
+403,21,P045,2.4,Poor design and overpriced.,2024-08-17
+404,137,P035,2.8,Very satisfied with the purchase.,2025-03-16
+405,45,P041,2.2,"Excellent product, loved the quality.",2025-03-03
+406,189,P028,3.8,Product does not match the description.,2025-04-07
+407,156,P017,2.0,Battery life could be better.,2024-09-10
+408,45,P035,1.0,"Exceeded expectations, highly recommend!",2025-01-15
+409,236,P036,1.9,Poor design and overpriced.,2025-01-06
+410,120,P039,2.1,"Decent value for money, could be better.",2024-06-27
+411,105,P028,2.2,"Decent value for money, could be better.",2024-07-16
+412,221,P042,3.0,"Excellent product, loved the quality.",2024-06-25
+413,78,P029,1.6,Battery life could be better.,2025-02-14
+414,65,P041,4.0,Poor design and overpriced.,2024-08-25
+415,280,P009,3.7,"Excellent product, loved the quality.",2025-03-21
+416,105,P019,4.0,Battery life could be better.,2024-08-21
+417,141,P019,2.1,Battery life could be better.,2024-07-05
+418,74,P037,1.1,Product does not match the description.,2024-09-17
+419,282,P015,3.3,Very satisfied with the purchase.,2024-07-08
+420,138,P025,4.5,Product does not match the description.,2024-07-26
+421,269,P007,1.0,"Excellent product, loved the quality.",2024-09-19
+422,64,P010,2.6,"Exceeded expectations, highly recommend!",2025-04-09
+423,260,P037,3.1,"Exceeded expectations, highly recommend!",2024-05-11
+424,219,P028,3.9,"Exceeded expectations, highly recommend!",2024-12-03
+425,71,P018,4.9,"Excellent product, loved the quality.",2024-07-22
+426,33,P013,2.3,"Excellent product, loved the quality.",2024-09-23
+427,228,P009,1.7,Product does not match the description.,2024-08-31
+428,163,P012,4.4,"Decent value for money, could be better.",2024-08-04
+429,274,P039,4.9,Battery life could be better.,2025-03-30
+430,82,P046,4.1,Fast delivery and good packaging.,2024-12-22
+431,27,P045,1.4,Fast delivery and good packaging.,2024-06-25
+432,195,P025,4.8,Poor design and overpriced.,2024-07-19
+433,299,P049,4.4,"Terrible service, not satisfied.",2024-11-25
+434,296,P038,4.1,Product does not match the description.,2025-01-28
+435,71,P005,3.9,Very satisfied with the purchase.,2024-06-04
+436,80,P004,2.3,"Terrible service, not satisfied.",2025-03-10
+437,132,P046,4.1,"Terrible service, not satisfied.",2025-03-07
+438,18,P012,1.8,Very satisfied with the purchase.,2024-09-04
+439,110,P010,3.3,"Exceeded expectations, highly recommend!",2025-03-27
+440,29,P007,1.9,Fast delivery and good packaging.,2024-07-28
+441,110,P047,4.8,Poor design and overpriced.,2024-09-30
+442,83,P005,3.2,"Exceeded expectations, highly recommend!",2024-09-04
+443,24,P021,4.3,"Excellent product, loved the quality.",2025-03-04
+444,31,P033,2.3,Poor design and overpriced.,2025-02-20
+445,156,P009,3.3,Very satisfied with the purchase.,2024-05-01
+446,100,P032,2.3,"Excellent product, loved the quality.",2024-05-31
+447,25,P036,2.0,"Exceeded expectations, highly recommend!",2024-12-31
+448,196,P022,3.5,"Terrible service, not satisfied.",2024-07-29
+449,259,P014,2.4,Very satisfied with the purchase.,2024-10-13
+450,198,P008,4.4,Battery life could be better.,2024-05-28
+451,12,P034,4.2,Product does not match the description.,2025-01-23
+452,238,P030,4.7,"Decent value for money, could be better.",2024-05-19
+453,183,P049,3.7,Fast delivery and good packaging.,2024-04-20
+454,144,P039,2.7,Fast delivery and good packaging.,2024-12-10
+455,3,P032,3.0,Very satisfied with the purchase.,2025-01-16
+456,67,P009,4.5,Battery life could be better.,2024-12-31
+457,160,P029,2.7,"Terrible service, not satisfied.",2024-05-27
+458,158,P022,1.8,Battery life could be better.,2025-04-10
+459,259,P011,1.3,Product does not match the description.,2025-01-31
+460,139,P025,3.9,"Terrible service, not satisfied.",2025-02-17
+461,216,P050,1.5,Very satisfied with the purchase.,2025-01-02
+462,19,P022,3.6,"Terrible service, not satisfied.",2024-08-17
+463,246,P020,1.5,Battery life could be better.,2024-05-31
+464,299,P047,3.3,"Terrible service, not satisfied.",2024-07-10
+465,207,P029,2.2,Product does not match the description.,2025-02-01
+466,166,P026,2.5,"Excellent product, loved the quality.",2024-10-14
+467,284,P014,2.7,"Excellent product, loved the quality.",2024-09-30
+468,143,P046,1.2,"Decent value for money, could be better.",2024-10-10
+469,219,P037,2.6,Poor design and overpriced.,2024-09-22
+470,244,P040,1.2,Product does not match the description.,2025-03-23
+471,129,P020,3.6,"Terrible service, not satisfied.",2024-08-10
+472,235,P035,1.6,Fast delivery and good packaging.,2024-06-05
+473,276,P029,3.0,"Decent value for money, could be better.",2024-08-20
+474,285,P014,4.3,Fast delivery and good packaging.,2024-12-27
+475,268,P045,2.3,"Exceeded expectations, highly recommend!",2024-11-15
+476,220,P044,2.2,"Terrible service, not satisfied.",2024-10-19
+477,299,P046,4.1,Works perfectly and looks great.,2024-11-09
+478,203,P042,4.0,"Exceeded expectations, highly recommend!",2024-12-03
+479,232,P032,2.2,Fast delivery and good packaging.,2025-03-25
+480,150,P025,3.0,Poor design and overpriced.,2024-12-04
+481,140,P008,4.7,"Exceeded expectations, highly recommend!",2025-02-25
+482,105,P035,2.6,Fast delivery and good packaging.,2024-09-17
+483,132,P006,2.6,"Terrible service, not satisfied.",2024-05-26
+484,178,P012,1.8,Works perfectly and looks great.,2024-05-11
+485,207,P024,3.8,Battery life could be better.,2024-06-13
+486,123,P039,4.9,"Decent value for money, could be better.",2024-08-27
+487,225,P031,1.5,"Decent value for money, could be better.",2024-10-19
+488,92,P039,2.6,Battery life could be better.,2024-11-12
+489,65,P028,4.3,Works perfectly and looks great.,2024-11-11
+490,193,P047,2.7,"Decent value for money, could be better.",2024-06-11
+491,151,P011,3.9,"Excellent product, loved the quality.",2024-11-04
+492,67,P015,4.9,Battery life could be better.,2025-02-21
+493,297,P001,3.5,Battery life could be better.,2024-05-11
+494,13,P014,3.3,Poor design and overpriced.,2024-08-09
+495,2,P010,3.3,"Exceeded expectations, highly recommend!",2024-06-09
+496,191,P005,2.9,Poor design and overpriced.,2024-11-21
+497,145,P019,3.9,Works perfectly and looks great.,2025-01-19
+498,187,P025,4.4,Product does not match the description.,2025-01-15
+499,213,P014,1.9,"Terrible service, not satisfied.",2024-12-18
+500,271,P028,3.3,"Exceeded expectations, highly recommend!",2024-06-10
+501,193,P049,2.7,Product does not match the description.,2025-01-21
+502,40,P037,3.8,"Excellent product, loved the quality.",2025-03-01
+503,168,P034,1.4,"Terrible service, not satisfied.",2024-09-14
+504,267,P038,4.8,"Decent value for money, could be better.",2024-08-30
+505,9,P006,3.2,Poor design and overpriced.,2025-04-15
+506,34,P022,1.8,"Excellent product, loved the quality.",2024-08-30
+507,244,P023,1.7,"Terrible service, not satisfied.",2025-01-13
+508,114,P008,1.7,Very satisfied with the purchase.,2024-08-26
+509,122,P036,1.0,Works perfectly and looks great.,2024-12-10
+510,274,P014,3.1,"Excellent product, loved the quality.",2024-10-30
+511,253,P039,3.3,Poor design and overpriced.,2024-10-31
+512,9,P019,1.3,Works perfectly and looks great.,2025-02-09
+513,6,P015,2.2,"Terrible service, not satisfied.",2024-06-18
+514,268,P044,4.1,Poor design and overpriced.,2024-10-17
+515,2,P027,4.5,"Exceeded expectations, highly recommend!",2024-06-18
+516,227,P033,1.6,"Exceeded expectations, highly recommend!",2024-05-26
+517,217,P009,4.7,Very satisfied with the purchase.,2024-07-30
+518,198,P004,2.6,Product does not match the description.,2025-02-07
+519,35,P049,2.0,"Excellent product, loved the quality.",2025-01-31
+520,167,P012,2.7,Battery life could be better.,2025-03-08
+521,216,P015,4.1,Very satisfied with the purchase.,2025-03-15
+522,137,P049,3.8,"Exceeded expectations, highly recommend!",2024-06-10
+523,237,P029,1.6,Works perfectly and looks great.,2025-04-11
+524,258,P043,2.0,Works perfectly and looks great.,2024-09-26
+525,108,P015,4.3,Fast delivery and good packaging.,2024-12-31
+526,158,P012,3.4,Fast delivery and good packaging.,2024-09-04
+527,78,P005,3.5,Battery life could be better.,2024-06-15
+528,107,P029,3.0,Works perfectly and looks great.,2025-01-31
+529,181,P018,2.9,"Terrible service, not satisfied.",2024-11-11
+530,54,P015,1.7,Poor design and overpriced.,2024-06-12
+531,84,P035,4.0,Product does not match the description.,2024-07-19
+532,295,P044,3.7,Battery life could be better.,2024-10-01
+533,107,P049,2.6,Very satisfied with the purchase.,2024-07-03
+534,51,P044,4.4,Product does not match the description.,2024-09-13
+535,47,P022,2.6,Product does not match the description.,2024-05-09
+536,268,P043,1.1,Battery life could be better.,2024-08-14
+537,130,P030,1.4,Works perfectly and looks great.,2024-06-17
+538,3,P005,3.3,Fast delivery and good packaging.,2024-05-17
+539,189,P038,1.3,"Excellent product, loved the quality.",2025-04-03
+540,206,P040,1.6,Very satisfied with the purchase.,2024-12-04
+541,198,P031,2.5,Battery life could be better.,2024-12-09
+542,145,P007,2.6,Poor design and overpriced.,2025-02-23
+543,228,P002,4.9,Fast delivery and good packaging.,2025-04-14
+544,201,P002,3.1,Product does not match the description.,2024-07-05
+545,99,P020,1.3,"Excellent product, loved the quality.",2024-11-06
+546,286,P006,3.6,Product does not match the description.,2024-10-13
+547,119,P033,3.2,Poor design and overpriced.,2025-02-23
+548,116,P007,1.8,Product does not match the description.,2025-04-09
+549,141,P002,3.8,"Decent value for money, could be better.",2024-07-10
+550,111,P046,4.3,Product does not match the description.,2024-12-18
+551,4,P010,4.8,Poor design and overpriced.,2024-11-24
+552,283,P025,4.0,"Excellent product, loved the quality.",2024-10-08
+553,174,P043,3.3,"Excellent product, loved the quality.",2024-11-14
+554,235,P048,2.2,"Excellent product, loved the quality.",2024-10-01
+555,65,P031,1.5,Very satisfied with the purchase.,2024-11-05
+556,133,P030,1.3,Product does not match the description.,2025-01-27
+557,15,P017,4.7,"Terrible service, not satisfied.",2024-10-04
+558,79,P044,1.6,"Terrible service, not satisfied.",2024-06-25
+559,193,P039,3.7,"Decent value for money, could be better.",2025-02-16
+560,133,P009,4.0,Product does not match the description.,2024-06-17
+561,91,P009,3.4,Product does not match the description.,2025-04-19
+562,269,P030,1.3,"Exceeded expectations, highly recommend!",2024-06-18
+563,48,P015,3.3,Works perfectly and looks great.,2024-11-23
+564,272,P042,3.4,Very satisfied with the purchase.,2024-12-25
+565,225,P002,4.0,Battery life could be better.,2024-05-05
+566,23,P043,2.8,Poor design and overpriced.,2024-07-28
+567,270,P029,1.6,Very satisfied with the purchase.,2024-07-06
+568,136,P020,2.2,Works perfectly and looks great.,2024-08-25
+569,191,P045,4.2,"Exceeded expectations, highly recommend!",2024-09-12
+570,192,P003,1.3,Works perfectly and looks great.,2024-06-10
+571,83,P007,1.4,Very satisfied with the purchase.,2024-07-06
+572,252,P045,1.4,Fast delivery and good packaging.,2024-10-02
+573,31,P034,4.4,Fast delivery and good packaging.,2024-12-20
+574,169,P037,2.5,Poor design and overpriced.,2024-12-21
+575,300,P037,4.5,"Exceeded expectations, highly recommend!",2025-04-08
+576,251,P024,1.4,Product does not match the description.,2024-11-30
+577,52,P006,4.0,"Excellent product, loved the quality.",2024-06-25
+578,191,P038,4.5,"Excellent product, loved the quality.",2024-06-13
+579,195,P040,2.4,"Terrible service, not satisfied.",2025-04-10
+580,101,P025,4.5,Fast delivery and good packaging.,2024-10-23
+581,58,P035,3.0,"Decent value for money, could be better.",2024-06-02
+582,116,P017,4.9,"Decent value for money, could be better.",2024-09-24
+583,23,P040,2.4,Fast delivery and good packaging.,2024-04-25
+584,254,P041,4.9,"Excellent product, loved the quality.",2024-08-22
+585,54,P039,1.9,Fast delivery and good packaging.,2024-11-16
+586,37,P049,1.2,Fast delivery and good packaging.,2024-10-05
+587,25,P016,4.3,Very satisfied with the purchase.,2024-07-18
+588,65,P003,3.8,"Excellent product, loved the quality.",2025-01-23
+589,112,P017,2.6,Very satisfied with the purchase.,2024-06-07
+590,120,P038,4.9,Works perfectly and looks great.,2024-07-27
+591,296,P004,1.2,"Terrible service, not satisfied.",2024-09-06
+592,85,P048,1.7,"Excellent product, loved the quality.",2024-10-28
+593,161,P020,1.9,"Excellent product, loved the quality.",2025-03-06
+594,229,P037,1.4,Product does not match the description.,2024-12-10
+595,102,P030,2.1,"Decent value for money, could be better.",2024-08-03
+596,3,P019,3.6,Battery life could be better.,2024-09-19
+597,218,P002,2.5,Very satisfied with the purchase.,2025-02-07
+598,222,P032,3.2,"Terrible service, not satisfied.",2025-01-11
+599,217,P012,1.5,Product does not match the description.,2025-01-08
+600,276,P004,3.9,"Decent value for money, could be better.",2025-02-14
+601,192,P006,1.7,Fast delivery and good packaging.,2024-11-27
+602,26,P048,2.7,Very satisfied with the purchase.,2024-11-24
+603,72,P024,3.6,Battery life could be better.,2024-11-12
+604,121,P049,4.6,Product does not match the description.,2025-04-15
+605,294,P027,1.5,"Exceeded expectations, highly recommend!",2025-02-07
+606,62,P029,3.7,Fast delivery and good packaging.,2025-02-02
+607,28,P020,1.3,Fast delivery and good packaging.,2024-07-14
+608,200,P012,4.2,Product does not match the description.,2024-09-15
+609,286,P034,4.0,"Exceeded expectations, highly recommend!",2025-01-29
+610,275,P030,3.4,"Excellent product, loved the quality.",2025-03-15
+611,258,P032,1.7,Works perfectly and looks great.,2024-10-04
+612,208,P042,3.3,"Exceeded expectations, highly recommend!",2024-05-13
+613,163,P020,2.9,Battery life could be better.,2024-09-09
+614,213,P013,2.3,Very satisfied with the purchase.,2024-07-23
+615,290,P007,2.3,Battery life could be better.,2024-05-02
+616,258,P036,4.5,Fast delivery and good packaging.,2024-08-15
+617,298,P025,1.4,"Excellent product, loved the quality.",2025-01-27
+618,163,P023,1.9,"Exceeded expectations, highly recommend!",2024-11-25
+619,187,P033,2.2,"Terrible service, not satisfied.",2025-01-24
+620,109,P012,1.7,Battery life could be better.,2025-04-17
+621,298,P043,3.5,Works perfectly and looks great.,2024-10-20
+622,199,P034,3.5,Poor design and overpriced.,2025-03-01
+623,19,P021,1.1,Fast delivery and good packaging.,2024-09-22
+624,272,P045,3.7,Fast delivery and good packaging.,2024-08-19
+625,180,P023,3.8,Product does not match the description.,2024-12-19
+626,35,P024,2.6,"Terrible service, not satisfied.",2024-08-30
+627,123,P016,3.9,"Decent value for money, could be better.",2025-01-27
+628,187,P011,4.9,Poor design and overpriced.,2024-11-19
+629,236,P006,1.7,Very satisfied with the purchase.,2024-08-28
+630,183,P005,2.7,Fast delivery and good packaging.,2024-09-02
+631,276,P031,4.0,Product does not match the description.,2025-02-28
+632,283,P036,2.0,"Decent value for money, could be better.",2025-04-17
+633,295,P040,3.7,Works perfectly and looks great.,2024-06-09
+634,280,P030,1.5,Fast delivery and good packaging.,2024-10-28
+635,79,P030,2.9,"Exceeded expectations, highly recommend!",2025-01-30
+636,175,P033,3.6,Fast delivery and good packaging.,2024-10-27
+637,179,P028,4.7,Fast delivery and good packaging.,2024-07-31
+638,185,P017,4.3,Poor design and overpriced.,2024-12-26
+639,112,P028,3.2,"Excellent product, loved the quality.",2024-04-22
+640,153,P050,2.4,Fast delivery and good packaging.,2024-08-05
+641,153,P029,4.3,Product does not match the description.,2024-06-25
+642,104,P021,4.4,Very satisfied with the purchase.,2024-10-29
+643,131,P028,3.7,"Excellent product, loved the quality.",2024-06-10
+644,265,P001,4.6,Very satisfied with the purchase.,2025-02-01
+645,102,P022,3.5,Works perfectly and looks great.,2024-10-30
+646,201,P014,4.2,"Terrible service, not satisfied.",2024-10-22
+647,187,P024,2.9,Works perfectly and looks great.,2024-07-02
+648,167,P040,4.5,"Decent value for money, could be better.",2024-05-30
+649,58,P027,3.6,"Exceeded expectations, highly recommend!",2024-11-25
+650,9,P025,4.8,"Decent value for money, could be better.",2024-08-13
+651,83,P023,4.1,"Decent value for money, could be better.",2024-12-20
+652,283,P036,3.4,Product does not match the description.,2024-06-11
+653,246,P030,1.9,Battery life could be better.,2025-01-08
+654,95,P012,3.3,Product does not match the description.,2024-07-02
+655,76,P008,2.7,Poor design and overpriced.,2024-09-14
+656,124,P005,3.8,"Exceeded expectations, highly recommend!",2024-09-14
+657,188,P050,3.7,Poor design and overpriced.,2025-03-20
+658,210,P034,3.5,"Terrible service, not satisfied.",2024-11-15
+659,197,P029,3.3,"Exceeded expectations, highly recommend!",2024-09-29
+660,125,P008,4.9,Very satisfied with the purchase.,2024-09-21
+661,112,P032,3.9,Works perfectly and looks great.,2024-05-11
+662,49,P021,2.5,Very satisfied with the purchase.,2024-11-24
+663,204,P044,2.2,"Terrible service, not satisfied.",2024-10-04
+664,175,P024,4.7,Fast delivery and good packaging.,2024-07-20
+665,165,P034,4.3,Poor design and overpriced.,2024-11-06
+666,287,P007,3.4,"Decent value for money, could be better.",2024-07-25
+667,198,P043,2.0,Poor design and overpriced.,2024-12-05
+668,221,P037,4.4,Poor design and overpriced.,2024-12-17
+669,223,P001,3.7,Works perfectly and looks great.,2024-05-07
+670,250,P006,2.2,"Terrible service, not satisfied.",2024-10-12
+671,150,P031,3.2,Battery life could be better.,2025-01-10
+672,265,P028,2.1,"Terrible service, not satisfied.",2024-08-04
+673,242,P019,3.2,"Terrible service, not satisfied.",2024-08-18
+674,37,P009,4.3,Product does not match the description.,2024-05-01
+675,44,P016,2.7,"Exceeded expectations, highly recommend!",2024-08-20
+676,265,P045,4.1,"Excellent product, loved the quality.",2024-07-29
+677,289,P026,2.5,"Excellent product, loved the quality.",2024-04-23
+678,239,P018,3.8,Product does not match the description.,2025-03-31
+679,4,P020,4.9,"Exceeded expectations, highly recommend!",2024-08-01
+680,110,P011,3.3,Very satisfied with the purchase.,2024-08-14
+681,259,P029,4.2,Battery life could be better.,2024-10-23
+682,16,P046,2.8,Battery life could be better.,2024-06-09
+683,143,P040,1.4,"Decent value for money, could be better.",2024-04-25
+684,233,P028,4.2,"Excellent product, loved the quality.",2024-12-01
+685,142,P031,2.6,Very satisfied with the purchase.,2024-11-29
+686,162,P035,3.9,"Excellent product, loved the quality.",2025-03-09
+687,225,P041,4.3,Fast delivery and good packaging.,2024-07-26
+688,183,P035,2.0,"Decent value for money, could be better.",2024-11-24
+689,168,P045,4.7,Poor design and overpriced.,2025-03-06
+690,28,P037,2.8,Poor design and overpriced.,2024-08-03
+691,266,P019,4.6,"Terrible service, not satisfied.",2024-10-18
+692,225,P011,4.0,"Exceeded expectations, highly recommend!",2024-07-26
+693,166,P022,4.5,Fast delivery and good packaging.,2024-07-15
+694,147,P001,4.5,"Terrible service, not satisfied.",2024-07-03
+695,25,P035,1.1,Fast delivery and good packaging.,2024-06-05
+696,16,P009,4.3,Fast delivery and good packaging.,2024-06-24
+697,233,P050,1.8,Battery life could be better.,2024-09-16
+698,227,P049,2.2,Battery life could be better.,2025-04-11
+699,299,P007,1.1,Battery life could be better.,2024-08-27
+700,39,P023,4.7,Fast delivery and good packaging.,2024-09-11
+701,287,P021,2.8,"Terrible service, not satisfied.",2024-10-11
+702,193,P034,3.8,Fast delivery and good packaging.,2024-12-27
+703,212,P002,1.4,Very satisfied with the purchase.,2024-06-17
+704,121,P039,2.9,"Terrible service, not satisfied.",2025-01-21
+705,258,P014,2.5,"Decent value for money, could be better.",2024-05-30
+706,35,P011,2.8,"Exceeded expectations, highly recommend!",2024-06-17
+707,258,P008,1.9,"Excellent product, loved the quality.",2024-09-28
+708,150,P019,3.1,Very satisfied with the purchase.,2024-11-20
+709,249,P043,1.3,Works perfectly and looks great.,2024-09-16
+710,8,P023,3.3,"Decent value for money, could be better.",2024-07-30
+711,140,P002,2.7,"Decent value for money, could be better.",2024-05-06
+712,153,P049,1.6,"Exceeded expectations, highly recommend!",2025-04-07
+713,98,P012,4.7,Fast delivery and good packaging.,2024-08-27
+714,96,P029,3.5,Battery life could be better.,2024-09-28
+715,106,P010,2.0,Poor design and overpriced.,2024-07-07
+716,123,P012,4.5,"Exceeded expectations, highly recommend!",2025-03-28
+717,300,P039,4.4,"Terrible service, not satisfied.",2024-12-15
+718,285,P017,2.4,Product does not match the description.,2024-06-03
+719,234,P013,3.7,"Terrible service, not satisfied.",2024-12-22
+720,4,P022,4.9,"Excellent product, loved the quality.",2024-04-25
+721,163,P036,4.1,Product does not match the description.,2024-04-28
+722,198,P008,1.4,Very satisfied with the purchase.,2025-03-06
+723,48,P027,2.3,"Exceeded expectations, highly recommend!",2024-09-18
+724,51,P015,3.8,Product does not match the description.,2024-07-14
+725,55,P011,3.9,"Excellent product, loved the quality.",2024-08-05
+726,216,P021,3.8,Very satisfied with the purchase.,2024-12-31
+727,82,P002,5.0,Poor design and overpriced.,2024-07-09
+728,179,P045,3.8,"Terrible service, not satisfied.",2024-08-15
+729,183,P025,1.1,Product does not match the description.,2025-04-15
+730,200,P002,3.9,Fast delivery and good packaging.,2024-10-23
+731,285,P008,1.8,Very satisfied with the purchase.,2024-05-08
+732,178,P028,3.0,"Exceeded expectations, highly recommend!",2025-01-20
+733,36,P047,2.8,"Exceeded expectations, highly recommend!",2025-01-25
+734,145,P032,4.1,Very satisfied with the purchase.,2024-09-01
+735,294,P023,4.7,"Decent value for money, could be better.",2025-04-09
+736,234,P008,4.1,Poor design and overpriced.,2025-01-26
+737,139,P007,3.7,"Decent value for money, could be better.",2025-04-06
+738,141,P045,1.8,"Exceeded expectations, highly recommend!",2024-07-01
+739,53,P029,3.1,Fast delivery and good packaging.,2024-10-07
+740,196,P008,2.4,"Terrible service, not satisfied.",2024-12-23
+741,227,P005,4.2,"Terrible service, not satisfied.",2024-12-22
+742,107,P015,1.5,Fast delivery and good packaging.,2024-10-18
+743,134,P013,2.1,Battery life could be better.,2024-07-17
+744,135,P031,3.1,Fast delivery and good packaging.,2024-08-24
+745,214,P008,5.0,"Exceeded expectations, highly recommend!",2024-12-04
+746,152,P021,1.4,Product does not match the description.,2024-06-27
+747,262,P036,3.6,Fast delivery and good packaging.,2024-08-05
+748,122,P041,2.9,Very satisfied with the purchase.,2025-04-05
+749,169,P004,1.6,Very satisfied with the purchase.,2024-10-27
+750,191,P042,3.9,Poor design and overpriced.,2024-04-20
+751,144,P005,4.4,Poor design and overpriced.,2024-12-20
+752,47,P007,4.3,"Exceeded expectations, highly recommend!",2025-04-12
+753,29,P016,3.6,Very satisfied with the purchase.,2025-04-06
+754,10,P035,3.7,Poor design and overpriced.,2025-02-07
+755,236,P048,3.5,Works perfectly and looks great.,2025-04-20
+756,274,P010,3.1,Poor design and overpriced.,2024-06-27
+757,284,P042,1.7,"Excellent product, loved the quality.",2024-11-27
+758,85,P029,3.6,"Excellent product, loved the quality.",2024-06-19
+759,290,P042,3.0,Works perfectly and looks great.,2024-11-19
+760,204,P027,3.6,"Decent value for money, could be better.",2024-07-05
+761,99,P050,3.9,Battery life could be better.,2024-11-08
+762,265,P006,4.0,"Excellent product, loved the quality.",2025-02-13
+763,20,P050,2.4,Very satisfied with the purchase.,2024-09-04
+764,86,P035,4.8,Works perfectly and looks great.,2025-03-19
+765,140,P022,2.8,Fast delivery and good packaging.,2024-08-31
+766,291,P033,3.0,Poor design and overpriced.,2024-09-23
+767,236,P033,1.5,Works perfectly and looks great.,2024-05-31
+768,279,P037,4.2,Very satisfied with the purchase.,2025-02-19
+769,145,P038,3.1,"Exceeded expectations, highly recommend!",2024-09-27
+770,132,P008,1.6,"Terrible service, not satisfied.",2025-01-03
+771,293,P008,4.9,"Excellent product, loved the quality.",2024-06-22
+772,245,P041,1.5,Fast delivery and good packaging.,2024-11-07
+773,283,P023,4.7,Product does not match the description.,2024-11-20
+774,14,P029,4.8,Battery life could be better.,2025-02-05
+775,173,P006,1.4,Fast delivery and good packaging.,2025-02-19
+776,8,P043,2.3,Poor design and overpriced.,2024-10-08
+777,290,P025,3.2,"Exceeded expectations, highly recommend!",2024-07-10
+778,192,P029,1.5,Works perfectly and looks great.,2024-10-19
+779,283,P001,4.5,Battery life could be better.,2024-10-10
+780,280,P010,2.4,Poor design and overpriced.,2025-02-28
+781,239,P026,5.0,Product does not match the description.,2025-04-20
+782,261,P008,2.1,"Excellent product, loved the quality.",2024-07-07
+783,8,P007,3.8,"Excellent product, loved the quality.",2025-04-09
+784,263,P046,2.7,Product does not match the description.,2024-08-12
+785,196,P042,1.5,Very satisfied with the purchase.,2025-01-23
+786,236,P021,2.4,Battery life could be better.,2024-08-12
+787,23,P022,2.6,Battery life could be better.,2025-02-09
+788,76,P037,1.4,Fast delivery and good packaging.,2024-11-26
+789,199,P031,2.1,"Excellent product, loved the quality.",2024-06-21
+790,116,P040,3.1,"Excellent product, loved the quality.",2024-05-21
+791,292,P015,3.4,Works perfectly and looks great.,2024-06-17
+792,68,P024,1.0,"Terrible service, not satisfied.",2025-01-10
+793,239,P027,2.7,"Decent value for money, could be better.",2024-04-21
+794,114,P008,4.1,"Exceeded expectations, highly recommend!",2024-07-07
+795,123,P037,3.5,Fast delivery and good packaging.,2024-09-13
+796,236,P025,2.3,Poor design and overpriced.,2024-11-10
+797,23,P016,3.2,Product does not match the description.,2024-11-11
+798,140,P018,3.0,"Excellent product, loved the quality.",2024-12-21
+799,170,P002,3.2,Poor design and overpriced.,2024-10-27
+800,116,P004,1.4,Very satisfied with the purchase.,2024-08-09
+801,82,P040,4.9,Works perfectly and looks great.,2024-08-03
+802,209,P004,1.9,"Terrible service, not satisfied.",2024-10-09
+803,156,P001,4.5,"Decent value for money, could be better.",2024-07-26
+804,250,P022,5.0,Product does not match the description.,2024-05-01
+805,250,P006,4.3,"Terrible service, not satisfied.",2024-08-20
+806,171,P003,4.7,Poor design and overpriced.,2024-06-04
+807,139,P046,2.5,Works perfectly and looks great.,2025-02-19
+808,15,P050,1.5,"Excellent product, loved the quality.",2025-01-02
+809,253,P048,2.5,Battery life could be better.,2024-10-08
+810,232,P031,3.8,"Exceeded expectations, highly recommend!",2024-11-01
+811,284,P009,2.2,"Decent value for money, could be better.",2024-07-04
+812,72,P023,4.0,"Terrible service, not satisfied.",2024-12-15
+813,241,P007,4.8,"Exceeded expectations, highly recommend!",2024-06-17
+814,107,P027,1.6,Works perfectly and looks great.,2024-08-12
+815,80,P024,1.9,Poor design and overpriced.,2025-01-28
+816,284,P026,4.7,"Excellent product, loved the quality.",2024-05-30
+817,16,P024,1.9,Fast delivery and good packaging.,2024-08-21
+818,1,P044,4.7,Poor design and overpriced.,2024-06-18
+819,156,P034,3.8,Works perfectly and looks great.,2024-04-29
+820,149,P029,4.3,"Decent value for money, could be better.",2024-09-13
+821,127,P040,3.6,"Excellent product, loved the quality.",2025-03-18
+822,19,P043,3.9,Works perfectly and looks great.,2025-02-20
+823,200,P011,1.2,"Exceeded expectations, highly recommend!",2024-12-23
+824,32,P031,2.0,"Decent value for money, could be better.",2024-08-24
+825,175,P027,4.2,"Terrible service, not satisfied.",2024-06-14
+826,262,P027,1.9,"Decent value for money, could be better.",2024-09-06
+827,233,P023,2.1,Fast delivery and good packaging.,2024-12-09
+828,77,P040,4.9,Works perfectly and looks great.,2024-09-21
+829,44,P014,1.4,"Decent value for money, could be better.",2025-01-17
+830,82,P017,2.9,Fast delivery and good packaging.,2024-05-06
+831,216,P029,3.1,"Decent value for money, could be better.",2024-05-30
+832,130,P026,2.4,Poor design and overpriced.,2024-04-21
+833,254,P046,3.5,"Exceeded expectations, highly recommend!",2024-06-17
+834,248,P043,4.6,"Excellent product, loved the quality.",2025-02-15
+835,270,P045,3.5,Battery life could be better.,2024-12-30
+836,143,P039,2.0,Product does not match the description.,2024-09-13
+837,271,P025,4.1,Product does not match the description.,2024-07-13
+838,229,P017,2.9,"Excellent product, loved the quality.",2025-01-20
+839,140,P049,1.7,Battery life could be better.,2024-12-29
+840,269,P026,1.1,Fast delivery and good packaging.,2024-08-05
+841,254,P003,1.9,Poor design and overpriced.,2024-07-10
+842,223,P006,4.8,"Terrible service, not satisfied.",2024-12-06
+843,84,P010,3.7,Very satisfied with the purchase.,2024-10-12
+844,202,P035,1.8,Poor design and overpriced.,2024-06-03
+845,161,P038,3.1,"Exceeded expectations, highly recommend!",2024-12-17
+846,41,P040,2.3,"Excellent product, loved the quality.",2024-07-12
+847,38,P017,1.0,Very satisfied with the purchase.,2024-09-18
+848,154,P008,4.4,Product does not match the description.,2024-12-24
+849,50,P037,3.3,"Excellent product, loved the quality.",2024-07-20
+850,219,P011,2.8,"Excellent product, loved the quality.",2024-08-24
+851,18,P004,2.1,"Exceeded expectations, highly recommend!",2024-06-24
+852,238,P048,3.1,Very satisfied with the purchase.,2024-06-15
+853,50,P030,2.5,"Excellent product, loved the quality.",2024-05-23
+854,77,P005,2.1,Fast delivery and good packaging.,2024-07-24
+855,91,P016,3.0,Very satisfied with the purchase.,2024-09-03
+856,138,P022,1.3,Works perfectly and looks great.,2024-12-27
+857,149,P004,2.2,Fast delivery and good packaging.,2024-05-04
+858,19,P041,4.5,"Exceeded expectations, highly recommend!",2024-05-01
+859,32,P004,2.2,Product does not match the description.,2025-02-14
+860,277,P045,1.7,Fast delivery and good packaging.,2024-11-09
+861,73,P043,3.5,Works perfectly and looks great.,2024-09-18
+862,127,P035,2.1,"Excellent product, loved the quality.",2024-06-04
+863,274,P043,4.6,Very satisfied with the purchase.,2024-09-20
+864,80,P018,1.7,Works perfectly and looks great.,2025-01-26
+865,122,P041,1.7,Very satisfied with the purchase.,2024-10-20
+866,287,P020,4.6,Battery life could be better.,2024-04-22
+867,253,P007,2.7,Product does not match the description.,2025-03-02
+868,270,P017,1.4,Battery life could be better.,2024-06-07
+869,15,P040,4.4,"Terrible service, not satisfied.",2024-12-26
+870,47,P043,3.0,"Exceeded expectations, highly recommend!",2024-07-28
+871,58,P017,2.3,Poor design and overpriced.,2024-06-24
+872,233,P023,3.7,"Excellent product, loved the quality.",2024-08-02
+873,276,P046,3.6,"Terrible service, not satisfied.",2025-01-16
+874,27,P040,1.5,Fast delivery and good packaging.,2024-05-22
+875,286,P044,3.9,"Excellent product, loved the quality.",2024-06-01
+876,256,P011,2.4,"Terrible service, not satisfied.",2024-12-04
+877,189,P024,4.3,Fast delivery and good packaging.,2024-04-22
+878,54,P042,4.6,Very satisfied with the purchase.,2024-07-23
+879,265,P001,3.9,Fast delivery and good packaging.,2025-03-09
+880,48,P001,3.4,Very satisfied with the purchase.,2024-05-17
+881,20,P020,4.3,Battery life could be better.,2025-01-26
+882,143,P027,4.2,"Excellent product, loved the quality.",2025-01-04
+883,277,P050,3.9,"Excellent product, loved the quality.",2024-07-15
+884,13,P031,2.7,Battery life could be better.,2024-12-01
+885,271,P011,4.0,Poor design and overpriced.,2024-11-08
+886,210,P047,2.9,"Decent value for money, could be better.",2025-01-06
+887,225,P024,4.4,"Excellent product, loved the quality.",2024-10-13
+888,278,P001,4.9,Works perfectly and looks great.,2024-06-07
+889,10,P009,3.0,"Terrible service, not satisfied.",2025-04-04
+890,286,P016,1.9,"Decent value for money, could be better.",2025-02-06
+891,49,P030,2.6,Poor design and overpriced.,2024-04-24
+892,208,P010,2.5,Fast delivery and good packaging.,2025-01-23
+893,294,P003,1.5,Poor design and overpriced.,2024-08-06
+894,63,P030,4.3,Works perfectly and looks great.,2025-03-10
+895,147,P038,1.0,Fast delivery and good packaging.,2024-05-26
+896,173,P044,2.6,"Terrible service, not satisfied.",2024-05-19
+897,44,P025,1.0,"Decent value for money, could be better.",2024-11-21
+898,109,P025,2.0,Very satisfied with the purchase.,2024-08-01
+899,139,P002,1.2,Battery life could be better.,2025-02-18
+900,243,P043,1.3,Very satisfied with the purchase.,2024-05-19
+901,42,P004,1.3,Very satisfied with the purchase.,2024-06-05
+902,298,P003,3.6,Product does not match the description.,2024-10-29
+903,193,P030,1.6,Product does not match the description.,2024-06-11
+904,31,P013,2.7,Very satisfied with the purchase.,2024-05-24
+905,5,P047,4.8,Battery life could be better.,2024-06-25
+906,82,P008,1.6,Poor design and overpriced.,2024-10-20
+907,295,P002,3.9,Product does not match the description.,2024-09-08
+908,114,P038,3.5,Works perfectly and looks great.,2025-04-02
+909,249,P017,1.1,"Decent value for money, could be better.",2024-08-03
+910,236,P026,2.1,Product does not match the description.,2025-03-15
+911,19,P047,2.9,"Exceeded expectations, highly recommend!",2024-08-04
+912,12,P047,3.5,Fast delivery and good packaging.,2024-07-07
+913,296,P035,4.8,Battery life could be better.,2024-11-15
+914,169,P019,4.1,"Exceeded expectations, highly recommend!",2024-12-20
+915,162,P045,2.2,"Excellent product, loved the quality.",2025-04-04
+916,67,P005,2.1,"Exceeded expectations, highly recommend!",2025-02-02
+917,231,P016,2.7,"Exceeded expectations, highly recommend!",2024-07-28
+918,90,P045,3.5,Works perfectly and looks great.,2024-09-14
+919,223,P015,1.7,Very satisfied with the purchase.,2025-01-12
+920,264,P042,1.1,Very satisfied with the purchase.,2024-09-26
+921,166,P005,1.2,"Exceeded expectations, highly recommend!",2024-05-26
+922,31,P018,1.5,Poor design and overpriced.,2025-03-28
+923,74,P048,2.3,Poor design and overpriced.,2025-02-01
+924,122,P030,1.7,"Decent value for money, could be better.",2024-08-12
+925,3,P031,3.1,"Excellent product, loved the quality.",2024-12-06
+926,297,P045,2.1,Product does not match the description.,2025-03-30
+927,89,P049,4.7,Works perfectly and looks great.,2025-01-09
+928,56,P034,3.2,"Exceeded expectations, highly recommend!",2024-09-20
+929,255,P021,3.4,Works perfectly and looks great.,2024-07-04
+930,1,P005,1.4,"Terrible service, not satisfied.",2024-08-05
+931,157,P029,2.9,"Exceeded expectations, highly recommend!",2024-12-27
+932,260,P027,1.3,"Terrible service, not satisfied.",2025-03-13
+933,14,P012,1.7,Battery life could be better.,2024-08-26
+934,24,P031,2.3,Works perfectly and looks great.,2024-07-01
+935,165,P010,4.9,"Decent value for money, could be better.",2025-03-23
+936,34,P038,2.3,Product does not match the description.,2024-05-22
+937,216,P043,4.4,"Decent value for money, could be better.",2024-06-11
+938,268,P043,1.2,Fast delivery and good packaging.,2024-05-20
+939,50,P008,4.2,Battery life could be better.,2025-01-21
+940,42,P040,1.8,Product does not match the description.,2025-04-17
+941,11,P031,2.4,Fast delivery and good packaging.,2025-04-04
+942,23,P005,2.2,"Decent value for money, could be better.",2025-02-28
+943,19,P029,3.0,Very satisfied with the purchase.,2025-03-01
+944,43,P033,3.3,Product does not match the description.,2024-12-29
+945,82,P026,3.8,Works perfectly and looks great.,2024-06-06
+946,185,P018,4.7,"Decent value for money, could be better.",2025-01-13
+947,289,P022,3.2,Poor design and overpriced.,2024-11-12
+948,272,P011,4.8,"Exceeded expectations, highly recommend!",2025-03-29
+949,46,P015,2.4,Works perfectly and looks great.,2024-10-14
+950,14,P032,4.4,"Excellent product, loved the quality.",2024-11-08
+951,124,P029,1.6,"Terrible service, not satisfied.",2024-09-09
+952,177,P029,4.7,"Terrible service, not satisfied.",2024-05-13
+953,9,P006,3.3,"Exceeded expectations, highly recommend!",2025-04-07
+954,148,P045,3.0,Very satisfied with the purchase.,2024-09-05
+955,35,P049,2.7,Works perfectly and looks great.,2024-05-24
+956,83,P043,3.7,Very satisfied with the purchase.,2025-02-08
+957,121,P048,3.9,Product does not match the description.,2024-07-02
+958,239,P019,1.8,Product does not match the description.,2024-11-29
+959,275,P042,1.1,Fast delivery and good packaging.,2024-10-15
+960,92,P026,1.3,Works perfectly and looks great.,2024-04-22
+961,267,P001,2.8,"Decent value for money, could be better.",2024-11-25
+962,86,P028,3.4,"Terrible service, not satisfied.",2025-04-18
+963,257,P041,2.9,"Decent value for money, could be better.",2024-05-26
+964,218,P002,2.9,Very satisfied with the purchase.,2025-03-08
+965,47,P017,4.6,"Terrible service, not satisfied.",2025-01-18
+966,174,P020,3.4,Very satisfied with the purchase.,2024-04-22
+967,166,P047,3.9,Product does not match the description.,2025-01-03
+968,90,P010,4.7,Product does not match the description.,2024-08-27
+969,108,P047,4.0,"Terrible service, not satisfied.",2024-12-21
+970,57,P022,2.3,"Terrible service, not satisfied.",2025-01-29
+971,156,P004,3.9,Works perfectly and looks great.,2025-03-15
+972,5,P028,4.1,Product does not match the description.,2024-12-21
+973,222,P040,3.9,"Exceeded expectations, highly recommend!",2024-05-28
+974,274,P023,3.1,Product does not match the description.,2024-04-20
+975,201,P014,2.3,"Terrible service, not satisfied.",2025-01-01
+976,118,P010,1.7,Battery life could be better.,2024-06-25
+977,12,P042,3.0,Very satisfied with the purchase.,2024-09-24
+978,8,P037,4.0,Very satisfied with the purchase.,2024-04-29
+979,267,P023,4.0,Works perfectly and looks great.,2024-11-28
+980,8,P025,1.2,Product does not match the description.,2024-06-11
+981,261,P011,3.6,Product does not match the description.,2024-07-07
+982,28,P013,1.8,Poor design and overpriced.,2025-01-03
+983,201,P050,2.2,"Excellent product, loved the quality.",2024-05-29
+984,165,P045,3.9,Very satisfied with the purchase.,2025-02-14
+985,250,P002,2.8,Very satisfied with the purchase.,2024-11-19
+986,86,P023,4.3,Fast delivery and good packaging.,2024-12-18
+987,159,P040,3.6,"Exceeded expectations, highly recommend!",2024-05-28
+988,155,P022,4.5,Product does not match the description.,2024-08-19
+989,193,P017,4.0,"Excellent product, loved the quality.",2024-10-04
+990,30,P038,2.8,Very satisfied with the purchase.,2025-02-27
+991,257,P009,3.1,Poor design and overpriced.,2024-10-20
+992,187,P005,2.0,"Exceeded expectations, highly recommend!",2024-12-07
+993,143,P047,3.5,Product does not match the description.,2024-12-14
+994,104,P039,3.9,Poor design and overpriced.,2024-06-28
+995,222,P044,2.8,Very satisfied with the purchase.,2025-04-08
+996,242,P028,1.2,Very satisfied with the purchase.,2024-10-11
+997,148,P037,1.8,"Terrible service, not satisfied.",2024-07-31
+998,124,P001,3.4,Works perfectly and looks great.,2024-07-28
+999,197,P012,1.9,Product does not match the description.,2024-11-12
+1000,173,P009,2.1,"Decent value for money, could be better.",2025-03-04
